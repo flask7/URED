@@ -16,10 +16,6 @@ greenlet==0.4.15
 idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
-Kivy==1.10.1
-Kivy-Garden==0.1.4
-kivy.deps.glew==0.1.10
-kivy.deps.sdl2==0.1.18
 macholib==1.11
 MarkupSafe==1.0
 monotonic==1.5
@@ -29,12 +25,9 @@ Pygments==2.2.0
 PyInstaller==3.4
 PyMySQL==0.9.3
 PyPDF2==1.26.0
-pypiwin32==223
 python-engineio==2.3.2
 python-socketio==2.0.0
 pytz==2018.5
-pywin32==223
-pywin32-ctypes==0.2.0
 reportlab==3.5.23
 requests==2.19.1
 six==1.11.0
