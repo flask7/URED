@@ -15,7 +15,7 @@ future==0.17.1
 greenlet==0.4.15
 idna==2.7
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 Kivy==1.10.1
 Kivy-Garden==0.1.4
 kivy.deps.glew==0.1.10
